@@ -170,25 +170,10 @@ Linear Regression • Data Analytics
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=salonijamdadeE&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonijamdade&theme=tokyonight&hide_border=true" />
-
-</p>
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
 
 ---
 
